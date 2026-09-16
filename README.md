@@ -1,21 +1,104 @@
-# 💫 About Me:
-👋 Hi! I'm Shiv Pratap Singh, a passionate developer and lifelong learner who enjoys building practical solutions with code. I love exploring new technologies, contributing to open-source, and turning ideas into working projects.
+# Hi, I'm Shiv Pratap Singh 👋
 
+### Full-Stack Developer | AI/LLM Engineer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shiv-pratap-singh-778a612b0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratapsinghs801@gmail.com) 
+I'm a B.Tech Computer Science student at **IIIT Manipur** passionate about building scalable web applications and AI-powered systems. I enjoy working across the stack, from backend architecture and APIs to **RAG pipelines, LLMs, and agentic AI**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shiv-pratap04&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shiv-pratap04&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv-pratap04&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 What I'm Working On
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shiv-pratap04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+* 🤖 Building **AI/LLM-powered applications** with RAG and agentic workflows
+* 🧠 Exploring **LangChain, LangGraph, embeddings, vector databases, and LLMs**
+* ⚙️ Developing scalable backend systems with **FastAPI, Node.js, PostgreSQL, and Redis**
+* 🐳 Learning and applying **Docker, CI/CD, and cloud deployment**
+* 💻 Practicing **Data Structures & Algorithms** and competitive programming
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+`C++` `C` `Python` `JavaScript` `SQL`
+
+**Frontend**
+
+`React.js` `HTML5` `CSS3` `Tailwind CSS`
+
+**Backend & Databases**
+
+`Node.js` `Express.js` `FastAPI` `REST APIs` `PostgreSQL` `MongoDB` `MySQL` `Redis`
+
+**AI / LLM**
+
+`LangChain` `LangGraph` `RAG` `LLMs` `Vector Databases` `pgvector` `Google Gemini API` `Prompt Engineering`
+
+**DevOps & Tools**
+
+`Git` `GitHub` `Docker` `Docker Compose` `Celery` `GitHub Actions` `Postman` `Render` `Vercel` `Linux`
+
+### 🌟 Featured Projects
+
+#### 🤖 AI Knowledge Agent Platform
+
+Multi-tenant AI knowledge platform that enables document-based Q&A using **RAG, LangChain, LangGraph, and pgvector**, with agentic tool calling, asynchronous ingestion using Celery/Redis, and containerized deployment.
+
+🔗 [GitHub](https://github.com/shiv-pratap04/ai-knowledge-agent-platform) · [Live Demo](https://client-amber-three-95.vercel.app)
+
+#### 📊 InsightHR
+
+Full-stack HR Management & Decision Support System featuring role-based dashboards, performance scoring, anomaly detection, attrition prediction, and intelligent task allocation.
+
+🔗 [GitHub](https://github.com/shiv-pratap04/insighthr) · [Live Demo](https://insight-8fbm0weps-shiv-pratap04s-projects.vercel.app)
+
+#### 🎓 EdTech Platform
+
+Full-stack EdTech platform supporting Student, Instructor, and Admin roles with course management, enrollment, progress tracking, authentication, Razorpay payments, and Cloudinary media hosting.
+
+🔗 [GitHub](https://github.com/shiv-pratap04/EdtechPlatform) · [Live Demo](https://edtech-platform-omdlosczy-shiv-pratap04s-projects.vercel.app)
+
+### 🏆 Achievements
+
+* 🥇 **LeetCode Knight** — Contest Rating **1896**, Top **4.69%** globally
+* 🏆 **Flipkart GRiD 8.0 Semifinalist** — Software Development Track
+* 💻 **LeetCode Weekly Contest 510** — Rank **276 / 40,000+**
+* ⭐ **CodeChef Starters 199** — Global Rank **80 / 30,000+**
+* ⭐ **CodeChef 3-Star** — Peak Rating **1677**
+* 🧩 Solved **700+ DSA problems**
+
+### 📈 Competitive Programming
+
+<p align="left">
+  <a href="https://leetcode.com/u/Shiv_Pratap04">
+    <img src="https://img.shields.io/badge/LeetCode-1896-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/whole_isle_08">
+    <img src="https://img.shields.io/badge/CodeChef-3%20Star-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/pratapsixmj1">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+### 📜 Certifications
+
+* **Competitive Programming** — 86%, NPTEL, IIT Madras
+* **Introduction to Information Retrieval** — 98%, Top 1%, NPTEL, IISER Kolkata
+* **Business Intelligence & Analytics** — 100%, Top 1%, NPTEL, IIT Madras
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/shivpratap04">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shiv-pratap04">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfolio-shiv-pratap04s-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+📧 **Email:** [pratapsinghs801@gmail.com](mailto:pratapsinghs801@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shiv-pratap04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ *Building, learning, and solving one problem at a time.*
